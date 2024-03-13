@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AS" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAACAAAAAABAA=</HashCode>
+      <FileName>AS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BFS" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAIAAAACAAgABgAAAAAAAAAAAAACAAAAAEAAA=</HashCode>
+      <FileName>BFS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchBase" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aFtmADgACAAhKAQAAABCAQICgaAAAAhEAOUBAABACIg=</HashCode>
+      <FileName>SearchBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUS1" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAA=</HashCode>
+      <FileName>CUS1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUS2" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAQAAAAAAABAAAAAAAAEAAAACAAAAAAAAA=</HashCode>
+      <FileName>CUS2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DFS" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAABAAAAAAAAAAAAACAIAAAAAAA=</HashCode>
+      <FileName>DFS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GBFS" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAAAAAAAAABAAAAAAAAAAEAAAACAAAAAAAAA=</HashCode>
+      <FileName>GBFS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InformedSearch" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAQAAAEAAAACAIAAAAAAA=</HashCode>
+      <FileName>InformedSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGPFSearch" Collapsed="true">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAEgEAEAAAAAQBIAFAEAACABAAAEAEA=</HashCode>
+      <FileName>MGPFSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchCreator" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SearchCreator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UninformedSearch" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAA=</HashCode>
+      <FileName>UninformedSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Cell" Collapsed="true">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Coordinate" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAQAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Wall" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQACAAEAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Direction" Collapsed="true">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACABAAAAAAAAAAAAAIAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>Header.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
